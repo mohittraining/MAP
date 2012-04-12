@@ -10,6 +10,13 @@ mohit addition
 
 mohit addition2
 
+<<<<<<< HEAD
 mohit in - dummy-1
 
 mohit in - dummy-2
+=======
+mohit addition3
+d
+
+d
+>>>>>>> dummy
