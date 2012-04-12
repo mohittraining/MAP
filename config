@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://prrekapaee9f@github.com/mohitgargk/MAP
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[gui]
+	wmstate = normal
+	geometry = 1680x812+0+0 295 192
